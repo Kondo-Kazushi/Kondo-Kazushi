@@ -1,16 +1,13 @@
-### Hi there 👋
+# Profile
 
-<!--
-**Kondo-Kazushi/Kondo-Kazushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Instagram [Kazu.120n](https://www.instagram.com/kazu.120n/)
 
-Here are some ideas to get you started:
+Proggramming language **Swift** **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Service
+
+[MorePeace](https://morepeace.webnode.jp)
+
+## I am Japanese
+
+I can't speak English.

@@ -2,7 +2,7 @@
 
 Instagram [Kazu.120n](https://www.instagram.com/kazu.120n/)
 
-Proggramming language **Swift** **Python**
+Programming language **Swift** **Python**
 
 ## My Service
 

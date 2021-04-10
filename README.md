@@ -18,4 +18,4 @@ I can't speak English.
 
 ## Data
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondo-Kazushi&theme=yeblu&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondo-Kazushi&theme=yebla&layout=compact)

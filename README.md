@@ -16,7 +16,6 @@ Comming soon...
 
 I can't speak English.
 
-## Date
+## Data
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kondo-Kazushi&count_private=true&show_icons=true&hide=stars&theme=yeblu)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondo-Kazushi&theme=yeblu&layout=compact)

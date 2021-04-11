@@ -15,3 +15,7 @@ Comming soon...
 ## I am Japanese
 
 I can't speak English.
+
+## Data
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondo-Kazushi&theme=yebla&layout=compact)

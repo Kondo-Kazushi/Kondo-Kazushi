@@ -10,7 +10,7 @@ Programming language **Swift** **Python**
 
 ###  About MorePeace
 
-Comming soon...
+世界にもっとPeaceを
 
 ## I am Japanese
 

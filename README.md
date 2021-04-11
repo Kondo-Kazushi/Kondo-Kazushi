@@ -1,4 +1,4 @@
-# Profile
+<font color="Green"># Profile</font>
 
 Instagram [Kazu.120n](https://www.instagram.com/kazu.120n/)
 

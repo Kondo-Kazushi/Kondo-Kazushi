@@ -18,4 +18,4 @@ I can't speak English.
 
 ## Data
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kondo-Kazushi&repo=github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondo-Kazushi)](https://github.com/anuraghazra/github-readme-stats)

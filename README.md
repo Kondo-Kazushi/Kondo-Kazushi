@@ -17,7 +17,3 @@ I can't speak English.
 ## My Service
 
 [MorePeace](https://morepeace.webnode.jp)
-
-###  About MorePeace
-
-世界にもっとPeaceを

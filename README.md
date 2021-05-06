@@ -1,8 +1,6 @@
 # Profile
 
-Website [Kondo-Kazushi.github.io](https://kondo-kazushi.github.io/)
-
-Instagram [Kazu.120n](https://www.instagram.com/kazu.120n/)
+Website [Kazusite.github.io](https://Kazusite.github.io/)
 
 Programming language **Swift** **Python**
 
@@ -16,4 +14,4 @@ I can't speak English.
 
 ## My Service
 
-[MorePeace](https://morepeace.webnode.jp)
+Commig Soon...

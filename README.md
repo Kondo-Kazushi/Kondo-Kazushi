@@ -4,6 +4,8 @@ Website [Kazusite.github.io](https://Kazusite.github.io/)
 
 Programming language **Swift** **Python**
 
+N-HighSchool
+
 ## I am Japanese
 
 I can't speak English.

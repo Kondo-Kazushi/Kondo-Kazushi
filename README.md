@@ -2,7 +2,7 @@
 
 Website [Kazusite.github.io](https://Kazusite.github.io/)
 
-Programming language **Swift** **Python**
+Programming language **Swift** 
 
 N-HighSchool
 

@@ -8,6 +8,8 @@ Programming language **Swift**     I love SwiftUI:heart_eyes:
 
 N-HighSchool
 
+I am Jehovah's Witnesses
+
 ## I am Japanese
 
 I can't speak English.

@@ -2,8 +2,6 @@
 
 Website [Kazusite.github.io](https://Kazusite.github.io/)
 
-About me [ポートフォリオ的な？](https://kazusite.github.io/aboutme/)
-
 Programming language **Swift**     I love SwiftUI:heart_eyes:
 
 N-HighSchool

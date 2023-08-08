@@ -17,7 +17,3 @@ GitHubって何に使うんだっけ、そもそもプログラミングはど�
 ## Data
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kondo-Kazushi)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Service
-
-Commig Soon...
